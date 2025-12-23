@@ -49,3 +49,4 @@ face_recognition_attendance/
 - Face recognition using facial encodings
 - File handling and data logging in Python
 - Practical application of AI in real-world scenarios
+
